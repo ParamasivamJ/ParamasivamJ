@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-  <p><strong>Building data infrastructure and AI engineering, end to end.</strong></p>
+  <p><strong>Data Engineer by foundation. AI Engineer by evolution. Builder of scalable systems.</strong></p>
   <table>
     <tr>
       <td width="50%" align="center">
@@ -104,6 +104,6 @@ open_to     : Full-time roles in AI Engineering / Data Engineering
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/ParamasivamJ/count.svg" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ParamasivamJ&style=flat-square&color=4F46E5&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
