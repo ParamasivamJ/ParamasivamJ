@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=4000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Associate+%40+Cognizant+%7C+Open+to+new+opportunities;Microsoft+Certified+Fabric+Data+Engineer;Building+production-grade+RAG+%26+Agentic+systems" alt="Status" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=4000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Open+to+new+opportunities;Microsoft+Certified+Fabric+Data+Engineer;Building+production-grade+RAG+%26+Agentic+systems" alt="Status" />
 
 <br/><br/>
 
@@ -74,8 +74,7 @@
 ## Currently
 
 ```yaml
-role        : Data Engineering Intern -> Associate @ Cognizant
-focus       : AWS Data Engineering — Glue, Redshift, S3, Lambda
+focus       : End-to-end Data Engineering & AI solutions
 building    : Production-grade RAG pipelines and agentic AI systems
 exploring   : Fullstack AI engineering, deployment strategies, cloud optimizations
 open_to     : Full-time roles in Data Engineering / AI Engineering
@@ -85,12 +84,7 @@ open_to     : Full-time roles in Data Engineering / AI Engineering
 
 ## GitHub Stats
 
-<div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ParamasivamJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=4F46E5&icon_color=06B6D4&text_color=94A3B8&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParamasivamJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=4F46E5&text_color=94A3B8&langs_count=6" />
-
-</div>
 
 <div align="center">
 
