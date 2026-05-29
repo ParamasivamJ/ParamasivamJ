@@ -17,11 +17,21 @@
 
 ---
 
-```
-  Data infrastructure and AI engineering, end to end.
-  Pipelines, orchestration, and cloud-native tooling on one side.
-  RAG systems, agentic workflows, and LLM applications on the other.
-```
+<div align="center">
+  <p><strong>Building data infrastructure and AI engineering, end to end.</strong></p>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <b>Data Infrastructure</b><br/>
+        Pipelines, orchestration, and cloud-native tooling
+      </td>
+      <td width="50%" align="center">
+        <b>AI Engineering</b><br/>
+        RAG systems, agentic workflows, and LLM applications
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
