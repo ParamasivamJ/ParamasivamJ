@@ -22,7 +22,7 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        Pipelines, orchestration, and cloud-native tooling
+        Pipelines, big data processing, and cloud-native orchestration
       </td>
       <td width="50%" align="center">
         RAG systems, agentic workflows, and LLM applications
