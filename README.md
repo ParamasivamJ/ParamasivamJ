@@ -22,11 +22,9 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <b>Data Infrastructure</b><br/>
         Pipelines, orchestration, and cloud-native tooling
       </td>
       <td width="50%" align="center">
-        <b>AI Engineering</b><br/>
         RAG systems, agentic workflows, and LLM applications
       </td>
     </tr>
@@ -77,7 +75,7 @@
 
 [![Fabric Analytics Engineer](https://img.shields.io/badge/Microsoft_Certified-Fabric_Analytics_Engineer_Associate_(DP--600)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/PARAMASIVAMJ-6233/69DA64CCCFDE18BF?sharingId=267E1176F019F868)
 
-[![Azure Data Fundamentals](https://img.shields.io/badge/Microsoft_Certified-Azure_Data_Fundamentals_(DP--900)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/paramasivamj-6233/achievements?tab=tab-learning-paths)
+[![Azure Data Fundamentals](https://img.shields.io/badge/Microsoft_Certified-Azure_Data_Fundamentals_(DP--900)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/PARAMASIVAMJ-6233/F443181F5FC3D232?sharingId=267E1176F019F868)
 
 ---
 
@@ -106,6 +104,6 @@ open_to     : Full-time roles in Data Engineering / AI Engineering
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ParamasivamJ&style=flat-square&color=4F46E5&label=PROFILE+VIEWS" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParamasivamJ&count_bg=%234F46E5&title_bg=%230F172A&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=true" alt="Hits" />
 
 </div>
