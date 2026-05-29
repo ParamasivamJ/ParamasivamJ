@@ -82,10 +82,10 @@
 ## Currently
 
 ```yaml
-focus       : End-to-end Data Engineering & AI solutions
+focus       : End-to-end AI Engineering & data solutions
 building    : Production-grade RAG pipelines and agentic AI systems
 exploring   : Fullstack AI engineering, deployment strategies, cloud optimizations
-open_to     : Full-time roles in Data Engineering / AI Engineering
+open_to     : Full-time roles in AI Engineering / Data Engineering
 ```
 
 ---
@@ -104,6 +104,6 @@ open_to     : Full-time roles in Data Engineering / AI Engineering
 
 <div align="center">
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParamasivamJ&count_bg=%234F46E5&title_bg=%230F172A&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=true" alt="Hits" />
+<img src="https://profile-counter.glitch.me/ParamasivamJ/count.svg" alt="Profile Views" />
 
 </div>
